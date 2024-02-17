@@ -6,7 +6,7 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 
 ### Interests
 - Algorithm
-- Web FE
+- Web Programming (FE/BE)
 
 ### Experience
 - FORZA 27th C Language mentor ```(2022.3-2023.12)```
