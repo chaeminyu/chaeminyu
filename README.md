@@ -15,6 +15,14 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 - 멋쟁이사자처럼 12기 백엔드 트랙 ```(2024.3~)```
 - GDG on Campus Sookmyung ```(2024.9~)```
 
+### Projects
+- VOYAGE (2024.7~8) @ 멋쟁이사자처럼
+
+### Stacks
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
 <!--
 **chaeminyu/chaeminyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
