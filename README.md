@@ -15,9 +15,6 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 - 멋쟁이사자처럼 12기 백엔드 트랙 ```(2024.3~)```
 - GDG on Campus Sookmyung ```(2024.9~)```
 
-### Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeminyu)](https://solved.ac/chaeminyu/)
-
 <!--
 **chaeminyu/chaeminyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
