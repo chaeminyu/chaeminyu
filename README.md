@@ -32,6 +32,8 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)	![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 #### Have Experience in...
 <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 
