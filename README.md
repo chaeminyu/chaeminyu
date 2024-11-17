@@ -15,14 +15,14 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 - 제2회 신한 빅데이터 해커톤 ```(2023.10.4~2023.10.8)```
 - AWS Cloud Club Camp ML/API Camp in South Korea ```(2024.1.6)```
 - 멋쟁이사자처럼 12th 중앙 Hackathon ```(2024.8.6)```
-- 멋쟁이사자처럼 12th 4호선 Hackathon ```(2024.11.16)```
+- 멋쟁이사자처럼 12th 4호선 Hackathon ```(2024.11.16)``` 🏆 우수상 🏆
 
 ### 🛠️ Projects
 
 |   Duration    | Project    |  Role | Stack|
 | ------------- | ------------- | ---- | ---- |
-| 2024.7 ~ 2024.8  | VOYAGE  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
-| 2024.11 ~ | 여긴어디, 나는 누구 | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+| 2024.7 ~ 2024.8  | [VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
+| 2024.11 ~ | [여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 ### Stacks
 
