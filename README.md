@@ -12,10 +12,10 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 |2024.9 ~             | Google Developers Group on Campus Sookmyung: Machine Learning |
 
 ### Experience
-- 제2회 신한 빅데이터 해커톤 ```(2023.10.4~2023.10.8)```
-- AWS Cloud Club Camp ML/API Camp in South Korea ```(2024.1.6)```
-- 멋쟁이사자처럼 12th 중앙 Hackathon ```(2024.8.6)```
-- 멋쟁이사자처럼 12th 4호선 Hackathon ```(2024.11.16)``` 🏆 우수상 🏆
+- 제2회 신한 빅데이터 해커톤 참여 ```(2023.10.4~2023.10.8)```
+- AWS Cloud Club Camp ML/API Camp in South Korea 참여 ```(2024.1.6)```
+- 멋쟁이사자처럼 12th 중앙 Hackathon 참여```(2024.8.6)```
+- 멋쟁이사자처럼 12th 4호선 Hackathon **우수상** 🏆 ```(2024.11.16)```
 
 ### 🛠️ Projects
 
