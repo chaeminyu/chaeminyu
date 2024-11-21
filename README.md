@@ -1,8 +1,9 @@
 ## Chaemin Yu
 
 ### About
-Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's University
-안녕하세요 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 유채민입니다!
+Hi, my name is Chaemin Yu and I am currently a junior majoring Computer Science at Sookmyung Women's University
+
+안녕하세요 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 유채민입니다!
 
 ### Worked in...
 |                     |                           Organization                        |
@@ -21,8 +22,8 @@ Hi, my name is Chaemin Yu and I am currently a junior at Sookmyung Women's Unive
 
 |   Duration    | Project    |  Role | Stack|
 | ------------- | ------------- | ---- | ---- |
-| 2024.7 ~ 2024.8  | [VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
-| 2024.10 ~ 2024.11 | [여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+| 2024.7 ~ 2024.8  | [멋쟁이사자처럼 12th Hackathon: VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
+| 2024.10 ~ 2024.11 | [멋쟁이사자처럼 12th 4호선 Hackathon: 여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 ### Stacks
 
