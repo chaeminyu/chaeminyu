@@ -2,7 +2,9 @@
 
 ### About
 > 🏫 Sookmyung Women's University
+> 
 > 💻 Computer Science Major
+> 
 > 👩🏻‍💻 3rd Year
 
 ### Worked in...
