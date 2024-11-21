@@ -1,9 +1,9 @@
 ## Chaemin Yu
 
 ### About
-Hi, my name is Chaemin Yu and I am currently a junior majoring Computer Science at Sookmyung Women's University
-
-안녕하세요 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 유채민입니다!
+> 🏫 Sookmyung Women's University
+> 💻 Computer Science Major
+> 👩🏻‍💻 3rd Year
 
 ### Worked in...
 |                     |                           Organization                        |
