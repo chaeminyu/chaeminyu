@@ -11,14 +11,14 @@
 |                     |                           Organization                        |
 | ------------------- | ------------------------------------------------------------- |
 |2022.3 ~ 2023.12     | 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor            |
-|2024.3 ~             | 멋쟁이사자처럼 12th: Backend Development                          |
+|2024.3 ~             | Likelion 12th: Backend Development                          |
 |2024.9 ~             | Google Developers Group on Campus Sookmyung: Machine Learning |
 
 ### Experience
 - 제2회 신한 빅데이터 해커톤 참여 ```(2023.10.4~2023.10.8)```
 - AWS Cloud Club Camp ML/API Camp in South Korea 참여 ```(2024.1.6)```
-- 멋쟁이사자처럼 12th 중앙 Hackathon 참여```(2024.8.6)```
-- 멋쟁이사자처럼 12th 4호선 Hackathon **우수상** 🏆 ```(2024.11.16)```
+- Likelion 12th 중앙 Hackathon 참여```(2024.8.6)```
+- Likelion 12th 4호선 Hackathon **Excellence Award** 🏆 ```(2024.11.16)```
 
 ### 🛠️ Projects
 
