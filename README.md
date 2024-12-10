@@ -26,8 +26,8 @@
 | ------------- | ------------- | ---- | ---- |
 | 2024.7 ~ 2024.8  | [멋쟁이사자처럼 12th Hackathon: VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
 | 2024.10 ~ 2024.11 | [멋쟁이사자처럼 12th 4호선 Hackathon: 여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
-| 2024.10 ~ | 안드로이드 앱: 식집사 | Full Stack | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
-| 2024.10 ~ | Cloud Native App: FinEdu AI | Backend & Cloud Developer | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| 2024.10 ~ | [Android App: 식집사](https://github.com/chaeminyu/android-shick-jip) | Full Stack | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| 2024.10 ~ | [Cloud Native App: FinEdu AI](https://github.com/CloudSystem-FinEdu) | Backend & Cloud Developer | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
 ### Stacks
 
