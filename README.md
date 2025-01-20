@@ -12,7 +12,7 @@
 | ------------------- | ------------------------------------------------------------- |
 |2022.3 ~ 2023.12     | 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor            |
 |2024.3 ~ 2024.12     | Likelion 12th: Backend Development                          |
-|2024.9 ~             | Google Developers Group on Campus Sookmyung: Machine Learning |
+|2024.9 ~ 2024.12     | Google Developers Group on Campus Sookmyung: Machine Learning |
 |2025.1 ~             | Likelion 13th: Vice President & Backend Dev Mentor |
 
 ### Experience
@@ -27,8 +27,8 @@
 | ------------- | ------------- | ---- | ---- |
 | 2024.7 ~ 2024.8  | [Likelion 12th Hackathon: VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
 | 2024.10 ~ 2024.11 | [Likelion 12th 4호선 Hackathon: 여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
-| 2024.10 ~ | [Cloud Native App: FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) | Backend & Cloud Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| 2024.10 ~ | [Android App: 식집사](https://github.com/chaeminyu/android-shick-jip) | Full Stack Developer | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| 2024.10 ~ 2024.12| [Android App: 식집사](https://github.com/chaeminyu/android-shick-jip) | Full Stack Developer | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| 2024.10 ~ 2025.1| [Cloud Native App: FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) | Backend & Cloud Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 
