@@ -5,7 +5,7 @@
 > 
 > 💻 Computer Science Major
 > 
-> 👩🏻‍💻 3rd Year
+> 👩🏻‍💻 4th Year
 
 ### Worked in...
 |                     |                           Organization                        |
