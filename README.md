@@ -29,7 +29,7 @@
 | 2024.10 ~ 2024.11 | [Likelion 12th 4호선 Hackathon: 여긴어디, 나는 누구](https://github.com/Line4Thon-Nugu/Nugu-Backend) | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 | 2024.10 ~ 2024.12| [Android App: 식집사](https://github.com/chaeminyu/android-shick-jip) | Full Stack Developer | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
 | 2024.10 ~ 2025.1| [Cloud Native App: FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) | Backend & Cloud Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+| 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend & Cloud Developer | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 
 ### Stacks
