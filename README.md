@@ -14,7 +14,7 @@
 |2024.3 ~ 2024.12     | Likelion 12th: Backend Development                          |
 |2024.9 ~ 2024.12     | Google Developers Group on Campus Sookmyung: Machine Learning |
 |2025.1 ~ Present    | Likelion 13th: Vice President & Backend Dev Mentor |
-|2025.1 ~ Present     | AWS Cloud Club SMWU 3rd Member |
+|2025.1 ~ Present     | AWS Cloud Clubs SMWU 3rd Member |
 
 ### Experience
 - 제2회 신한 빅데이터 해커톤 참여 ```(2023.10.4~2023.10.8)```
