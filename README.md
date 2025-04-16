@@ -39,6 +39,7 @@
 | 2024.7 ~ 2024.8  | [VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)  | Backend Developer | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
 
 ### Technical Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeminyu)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Backend & Cloud
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
