@@ -1,23 +1,20 @@
 ## Chaemin Yu
-> Innovative backend engineer with proven leadership experience and expertise in cloud-native technologies
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chaeminyu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaeminyu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaeminyu@sookmyung.ac.kr)
 
 ### About
 > 🏫 Sookmyung Women's University - B.S. in Computer Science (Expected 2026)
 > 
-> 💻 Backend Developer & Cloud Engineering Enthusiast
+> 💻 Backend Developer & Cloud Engineering & Cybersecurity Enthusiast
 > 
 > 🌏 Fluent in Korean & English
 
 ### Leadership & Affiliations
 |                     |                           Organization                        |
 | ------------------- | ------------------------------------------------------------- |
-|2025.6 ~ Present    | **삼정KPMG: Cybersecurity Intern** |
-|2025.1 ~ Present    | 멋쟁이사자처럼 Likelion 13th: **Vice President & Backend Dev Mentor** |
-|2025.1 ~ Present     | AWS Cloud Clubs SMWU 3rd Member |
+|2025.6 ~ Present    | 🟢 **삼정KPMG: Cybersecurity Intern** |
+|2025.1 ~ Present    | 🟢 멋쟁이사자처럼 Likelion 13th: **Vice President & Backend Dev Mentor** |
+|2025.1 ~ 2025.7     | AWS Cloud Clubs SMWU 3rd Member |
 |2024.9 ~ 2024.12     | Google Developers Group on Campus Sookmyung: Machine Learning |
 |2024.3 ~ 2024.12     | 멋쟁이사자처럼 Likelion 12th: Backend Development |
 |2022.3 ~ 2023.12     | 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor |
@@ -54,10 +51,11 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 
 <!--
 **chaeminyu/chaeminyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+나중에 포폴 수정하고 이거 다시 올려놓기:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chaeminyu.github.io/)
 -->
