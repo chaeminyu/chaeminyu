@@ -15,6 +15,7 @@
 ### Leadership & Affiliations
 |                     |                           Organization                        |
 | ------------------- | ------------------------------------------------------------- |
+|2025.6 ~ Present    | **삼정KPMG: Cybersecurity Intern** |
 |2025.1 ~ Present    | 멋쟁이사자처럼 Likelion 13th: **Vice President & Backend Dev Mentor** |
 |2025.1 ~ Present     | AWS Cloud Clubs SMWU 3rd Member |
 |2024.9 ~ 2024.12     | Google Developers Group on Campus Sookmyung: Machine Learning |
